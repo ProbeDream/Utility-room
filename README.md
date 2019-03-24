@@ -322,7 +322,15 @@
                 2.看板实战.mobi
                 3.亲密关系第6版.mobi
                 4.情绪.mobi
-                5.习惯的力量.mobi	
+                5.习惯的力量.mobi
+		6.增长黑客如何低成本实现爆发式成长.mobi
+		7.精益数据分析_精益系列.mobi
+		8.教养的迷思.mobi
+		9.代码大全（第2版）.mobi
+		10.编写可维护的JavaScript.mobi
+		11.JavaScript语言精粹修订版.mobi	
+		12.《一念之转_四句话改变你的人生》作者_-拜伦·凯蒂.mobi
+		13.编写可维护的JavaScript.mobi
 ```
 
 ### 联系我
