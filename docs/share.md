@@ -330,15 +330,6 @@ JavaScript 语言的函数是一种独立的数据类型，以及采用基于原
 
 ![](https://ws1.sinaimg.cn/large/0060ejA5ly1g3fsq2figaj312q0o4dj9.jpg)
 
-最后一个 Suprise 也就是软件工程师们必会的翻墙:
-
-链接地址:okss.xyz
-
-邀请码如下所示
-
-```txt
-http://s49.zbjg.xyz/#/auth/register?code=nT2tp95MtBUhF9bF2XCsnhfTEV44mcMW
-```
 
 **Best Search Engine**
 

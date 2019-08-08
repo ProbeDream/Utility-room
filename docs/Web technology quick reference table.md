@@ -1,5 +1,6 @@
 #### Web 技术速查表
 
+Web technology quick reference table
 
 众所周知现在的开发,基本上Web开发是非常常见的,但是对应的技术体系也愈发庞大:
 因此为了更好的学习,特地整理了对应的Web技术速查表,来帮助我们开发和学习:
