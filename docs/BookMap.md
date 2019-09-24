@@ -51,8 +51,15 @@
             1.Java8 实战.azw3
             2.JavaScript 高级程序设计第 3 版*图灵程序设计丛书.azw3
             3.HTML5+canvas 开发详解第 2 版 29.azw3
-            4.Web 性能权威指南 (图灵程序设计丛书).azw3 5.算法技术实践.azw3 6.学习 JavaScript 数据结构与算法（第 2 版）.azw3
-            7.Node.js 开发指南-郭家宝.azw3 8.并发编程的艺术.azw3 9.精通正则表达式(第 3 版).azw3 10.设计模式之禅-秦小波.azw3 11.实战 Java 高并发程序设计-葛一鸣*郭超\_.azw3 12.看透 Spring_MVC 源代码分析与实践\_Web 开发技术丛书.azw3
+            4.Web 性能权威指南 (图灵程序设计丛书).azw3 
+            5.算法技术实践.azw3 
+            6.学习 JavaScript 数据结构与算法（第 2 版）.azw3
+            7.Node.js 开发指南-郭家宝.azw3 
+            8.并发编程的艺术.azw3 
+            9.精通正则表达式(第 3 版).azw3 
+            10.设计模式之禅-秦小波.azw3 
+            11.实战 Java 高并发程序设计-葛一鸣*郭超\_.azw3 
+            12.看透 Spring_MVC 源代码分析与实践\_Web 开发技术丛书.azw3
             13.Spring 技术内幕-计文柯.azw3
 
 
@@ -131,6 +138,24 @@
             70.深入浅出rxjs实战.mobi
             71.构建之法现代软件工程.mobi
             72.剑指offer名企面试官精讲典型编程题.mobi
+            73.python编程从入门到实践.mobi
+            74.python核心编程第3版.mobi
+            75.python基础教程第3版图灵图书.mobi
+            76.javascript设计模式.mobi
+            77.linux就该这么学.mobi
+            78.大话设计模式.mobi
+            79.大话数据结构.mobi
+            80.锋利的jquery第2版.mobi
+            81.人件.mobi
+            82.javascript编程全解图灵程序设计丛书.mobi
+            83.ruby基础教程第4版图灵程序设计丛书.mobi
+            84.别闹了费曼先生.mobi
+            85.http权威指南图灵程序设计丛书.mobi
+            86.图解http图灵程序设计丛书.mobi\
+            87.javascript忍者秘籍.mobi
+            88.javascript忍者秘籍2.mobi
+            89.重构改善代码已有的设计第二版.mobi
+            90.CSS3使用指南.azw3
 ```
 
 **生活类**:
@@ -446,4 +471,16 @@
             73.自卑与超越.mobi
             74.史蒂夫乔布斯传修改版.azw3
             75.特斯拉之父埃隆马斯克传.mobi
+            76.爱的艺术.mobi
+            77.当尼采哭泣欧文亚隆.mobi
+            78.人生的智慧如何才能幸福度过一生.mobi
+            79.杀死一只知更鸟.mobi
+            80.维特根斯坦传.mobi
 ```
+**MacTalk**:
+```
+            1.MacTalk人生元编程.mobi
+            2.MacTalk跨越边界.mobi 
+```
+
+
