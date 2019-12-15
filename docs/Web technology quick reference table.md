@@ -48,7 +48,6 @@ Web technology quick reference table
 
 7. [前端开发中文文档导航](http://cndevdocs.com/)
    [ECMAScript 6新特性列表](https://frankfang.github.io/es-6-tutorials/) 
-   [饥人谷课件](http://book.jirengu.com/fe/)
 
 不错的JS教程:
 1. [JavaScript标准入门教程](https://wangdoc.com/javascript/)
