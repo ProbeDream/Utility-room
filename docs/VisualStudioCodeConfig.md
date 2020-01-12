@@ -28,6 +28,9 @@
 22. Vetur
 23. Visual Studio IntelliCode
 24. vscode-icons
+25.Image preview
+26.CSS Peek
+27.Quokka.js
 
 关于 Visual Studio Code 的设置如下所示:
 
