@@ -32,7 +32,8 @@
 26. CSS Peek
 27. Quokka.js
 28. Browser Preview
-
+29. javascript Booster
+30. REST Client
 
 关于 Visual Studio Code 的设置如下所示:
 
