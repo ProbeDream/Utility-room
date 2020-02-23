@@ -34,8 +34,10 @@
 28. Browser Preview
 29. javascript Booster
 30. REST Client
-
-关于 Visual Studio Code 的设置如下所示:
+31. Polacode
+32. TODO Highlight
+33. Version Lens
+    关于 Visual Studio Code 的设置如下所示:
 
 ```json
 {
@@ -48,9 +50,9 @@
   "workbench.activityBar.visible": true,
   "git.autofetch": true,
   "explorer.confirmDragAndDrop": false,
-  "terminal.integrated.fontFamily": "Source Code Variable",
+  "terminal.integrated.fontFamily": "Consolas",
   // "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
-  "terminal.integrated.shell.windows": "D:\\DevelopmentUitl\\git\\usr\\bin\\bash.exe",
+  "terminal.integrated.shell.windows": "E:\\DevelopmentUtil\\Git\\usr\\bin\\bash.exe",
   "editor.suggestSelection": "first",
   // "editor.formatOnSave": true,
   "prettier.singleQuote": true,
@@ -65,7 +67,7 @@
     "wxml": "html"
   },
   "editor.fontFamily": "Source Code Pro,Source Code Variable,Monaco,Consolas,Menlo, 'Courier New', monospace",
-  "debug.console.fontFamily": "Source Code Variable",
+  "debug.console.fontFamily": "Source Code Pro",
   "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
@@ -132,10 +134,6 @@
   "workbench.statusBar.visible": true,
   "files.autoSave": "onFocusChange",
   "editor.find.autoFindInSelection": true,
-  "stylusSupremacy.insertColons": false,
-  "stylusSupremacy.insertSemicolons": false,
-  "stylusSupremacy.insertBraces": false,
-  "stylusSupremacy.insertNewLineAroundBlocks": false,
   "editor.quickSuggestions": {
     "other": true,
     "comments": false,
@@ -159,6 +157,11 @@
   },
   "[vue]": {
     "editor.defaultFormatter": "octref.vetur"
+  },
+  "browser-preview.chromeExecutable": "E:\\ToolCollection\\Chrome\\chrome.exe",
+  "extensions.ignoreRecommendations": false,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   }
 }
 ```
