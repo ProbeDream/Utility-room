@@ -37,6 +37,7 @@
 31. Polacode
 32. TODO Highlight
 33. Version Lens
+34. Todo Tree
     关于 Visual Studio Code 的设置如下所示:
 
 ```json
