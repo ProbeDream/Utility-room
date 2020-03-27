@@ -23,6 +23,8 @@
     17.Chocolatey(包管理器)   
     18.vmware WorkStation
     19.VitualBox (虚拟盒子Free)
+    20.MobaXterm
+    21.Koala
 ``` 
 
 #### 02|开发环境
@@ -99,8 +101,8 @@
     14.360看图
     15.Kindle Previewer(查看Mobi的工具)
     16.Adobe photoShop
-    17.LinuxLive USB Creator
-    18.Universial USB installor
+    17.Davinci
+    18.OBS Studio
 ```
 
 #### 06|Front End Plugins
