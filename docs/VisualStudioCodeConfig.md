@@ -7,37 +7,38 @@
 1. Auto Close Tag
 2. Auto Rename Tag
 3. Bracket Pair Colorizer 2
-4. Chinese (Simplified) Language Pack for Visual Studio Code
-5. Code Runner
-6. Code Spell Checker
-7. Color Info
-8. Debugger for Chrome
-9. filesize
-10. GitHub Pull Requests
-11. gitignore
-12. GitLens — Git supercharged
-13. Import Cost
-14. indent-rainbow
-15. IntelliSense for CSS class names in HTML
-16. language-stylus
-17. Manta's Stylus Supremacy
-18. Markdown Preview Enhanced
-19. Path Intellisense
-20. Prettier - Code formatter
-21. SVG Viewer
-22. Vetur
-23. Visual Studio IntelliCode
-24. vscode-icons
-25. Image preview
-26. CSS Peek
-27. Quokka.js
-28. Browser Preview
-29. javascript Booster
-30. REST Client
-31. Polacode
-32. TODO Highlight
-33. Version Lens
-34. Todo Tree
+4. Browser Preview
+5. Chinese (Simplified) Language Pack for Visual Studio Code
+6. Code Runner
+7. Code Spell Checker
+8. Color Info
+9. CSS Peek
+10. Debugger for Chrome
+11. file-size
+12. GitHub Pull Requests
+13. gitignore
+14. GitLens — Git supercharged
+15. Image preview
+16. Import Cost
+17. indent-rainbow
+18. IntelliSense for CSS class names in HTML
+19. JavaScript Booster
+20. Jest
+21. Markdown Preview Enhanced
+22. MySQL
+23. Path Intellisense
+24. Polacode
+25. Prettier - Code formatter
+26. Quokka.js
+27. REST Client
+28. SVG Viewer
+29. TODO Highlight
+30. Todo Tree
+31. Version Lens
+32. Vetur
+33. Visual Studio IntelliCode
+34. vscode-icons
+35. vscode-styled-components
     关于 Visual Studio Code 的设置如下所示:
 
 ```json
