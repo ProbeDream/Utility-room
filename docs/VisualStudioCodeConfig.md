@@ -3,7 +3,7 @@
 众所周知现在我们比较流行的开发工具中,特别是在前端开发的过程中,使用最广泛的就是:**Visual Studio Code**
 
 对应的一些插件系统还是比较好用的,由此记录一下我自己的 Visual Studio Code 的组件集合:
-
+```
 1. Auto Close Tag
 2. Auto Rename Tag
 3. Bracket Pair Colorizer 2
@@ -39,8 +39,13 @@
 33. Visual Studio IntelliCode
 34. vscode-icons
 35. vscode-styled-components
-    关于 Visual Studio Code 的设置如下所示:
+36. ESLint
+37. Settings Sync
+38. Project Mannager
+39. EditorConfig for VS Code
+```
 
+关于 Visual Studio Code 的设置如下所示:
 ```json
 {
   "window.zoomLevel": -1,
