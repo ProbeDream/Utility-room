@@ -43,6 +43,7 @@
 37. Settings Sync
 38. Project Mannager
 39. EditorConfig for VS Code
+40. Live Server
 ```
 
 关于 Visual Studio Code 的设置如下所示:
