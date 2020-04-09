@@ -46,6 +46,37 @@
 40. Live Server
 ```
 
+我们应该被卸载的Visual Studio Code的插件
+
+1. 功能已经被内置:
+- path Intellisense
+- Auto Close Tag
+- Auto Rename Tag 使用<kbd>F2</kbd>可以进行重构操作
+- npm Intellisense 功能已经被内置
+
+
+2. 维护不积极的
+- Color Highlight 替代品 **vscode-colorize**
+- TODO Highlight 替代品 **Todo Tree**
+- Live Server 
+- Bracket Pair Colorizer 2
+- indent-rainbow 
+- import-cost
+- SVG Viewer 替代品 **vscode-svg2**
+
+
+已经卸载的:
+1. Todo Highlight
+2. SVG Viewer
+3. Path Intellisense
+4. IntelliSense for CSS class names in HTML 替代品 **HTML CSS Support**
+5. indent-rainbow
+6. Import Cost
+7. Auto Rename Tag
+8. Auto Close Tag
+
+
+
 关于 Visual Studio Code 的设置如下所示:
 ```json
 {
