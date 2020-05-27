@@ -38,8 +38,7 @@
 32. VSCode Ruby
 33. vscode-drawio  
 34. vscode-icons
-35 vscode-styled-components
-
+35. vscode-styled-components
 ```
 
 我们应该被卸载的Visual Studio Code的插件
