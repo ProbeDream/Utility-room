@@ -4,46 +4,42 @@
 
 对应的一些插件系统还是比较好用的,由此记录一下我自己的 Visual Studio Code 的组件集合:
 ```
-1. Auto Close Tag
-2. Auto Rename Tag
-3. Bracket Pair Colorizer 2
-4. Browser Preview
-5. Chinese (Simplified) Language Pack for Visual Studio Code
-6. Code Runner
-7. Code Spell Checker
-8. Color Info
-9. CSS Peek
-10. Debugger for Chrome
+1. Bracket Pair Colorizer 2
+2. Browser Preview
+3. Chinese (Simplified) Language Pack for Visual Studio Code
+4. Code Runner
+5. Code Spell Checker
+6. Color Info
+7. CSS Peek
+8. Debugger for Chrome
+9. EditorConfig for VS Code
+10. ESLint
 11. file-size
 12. GitHub Pull Requests
 13. gitignore
 14. GitLens — Git supercharged
-15. Image preview
-16. Import Cost
-17. indent-rainbow
-18. IntelliSense for CSS class names in HTML
-19. JavaScript Booster
-20. Jest
-21. Markdown Preview Enhanced
-22. MySQL
-23. Path Intellisense
-24. Polacode
-25. Prettier - Code formatter
-26. Quokka.js
-27. REST Client
-28. SVG Viewer
-29. TODO Highlight
-30. Todo Tree
-31. Version Lens
-32. Vetur
-33. Visual Studio IntelliCode
+15. GraphQL
+16. Image preview
+17. JavaScript Booster
+18. Jest
+19. Live Server
+20. Markdown Preview Enhanced
+21. MySQL
+22. Polacode
+23. Prettier - Code formatter
+24. Project Mannager
+25. Quokka.js
+26. REST Client
+27. Ruby
+28. Settings Sync
+29. Todo Tree
+30. Vetur
+31. Visual Studio IntelliCode
+32. VSCode Ruby
+33. vscode-drawio  
 34. vscode-icons
-35. vscode-styled-components
-36. ESLint
-37. Settings Sync
-38. Project Mannager
-39. EditorConfig for VS Code
-40. Live Server
+35 vscode-styled-components
+
 ```
 
 我们应该被卸载的Visual Studio Code的插件
